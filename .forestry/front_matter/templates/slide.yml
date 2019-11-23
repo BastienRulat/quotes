@@ -7,3 +7,5 @@ fields:
   label: bouton
   description: un bouton
   hidden: false
+pages:
+- content/home/slide1.md
