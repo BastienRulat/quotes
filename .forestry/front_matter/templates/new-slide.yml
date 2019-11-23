@@ -12,3 +12,5 @@ fields:
       format: markdown
   label: titre
   description: Choisir le titre du slide
+pages:
+- content/home/slideForestry.md
