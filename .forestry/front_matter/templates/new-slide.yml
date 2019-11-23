@@ -13,4 +13,5 @@ fields:
   label: titre
   description: Choisir le titre du slide
 pages:
+- content/home/new-eloi.md
 - content/home/slideForestry.md
