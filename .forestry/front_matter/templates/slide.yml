@@ -13,5 +13,17 @@ fields:
     required: false
   label: texte1
   hidden: false
+- name: select
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: select
 pages:
 - content/home/slide1.md
