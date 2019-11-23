@@ -12,6 +12,6 @@ fields:
   config:
     required: false
   label: texte1
-  hidden: true
+  hidden: false
 pages:
 - content/home/slide1.md
