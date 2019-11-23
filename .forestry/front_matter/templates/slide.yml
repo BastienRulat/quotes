@@ -1,4 +1,9 @@
 ---
 label: slide
 hide_body: true
-fields: []
+fields:
+- name: bouton
+  type: boolean
+  label: bouton
+  description: un bouton
+  hidden: false
